@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # videos
-docs/*.mp4
+*.mp4
 
 # sqlite
 *.sqlite
